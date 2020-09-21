@@ -1,3 +1,3 @@
-# Hotels.com
+# Hoteles.com
 
 Simple site to practice layout
