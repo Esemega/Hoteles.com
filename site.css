@@ -13,7 +13,7 @@ body {
     max-width: 90%;
 }
 
-.hotels-item {
+.hotel-item {
     padding: 16px;
     border-radius: 2px;
     border: 1px solid #9c9c9c;
@@ -42,7 +42,7 @@ body {
     font-weight: 300;
 }
 
-.hotel-telephone-container {
+.hotel-phone-container {
     max-width: 250px;
 }
 
